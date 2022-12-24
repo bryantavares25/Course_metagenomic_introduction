@@ -1,0 +1,31 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_MEASUREMENT = "pt_BR.UTF-8",
+	LC_PAPER = "pt_BR.UTF-8",
+	LC_MONETARY = "pt_BR.UTF-8",
+	LC_NAME = "pt_BR.UTF-8",
+	LC_ADDRESS = "pt_BR.UTF-8",
+	LC_NUMERIC = "pt_BR.UTF-8",
+	LC_TELEPHONE = "pt_BR.UTF-8",
+	LC_IDENTIFICATION = "pt_BR.UTF-8",
+	LC_TIME = "pt_BR.UTF-8",
+	LANG = "pt_BR.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+9990410 reads; of these:
+  9990410 (100.00%) were paired; of these:
+    8368125 (83.76%) aligned concordantly 0 times
+    1529271 (15.31%) aligned concordantly exactly 1 time
+    93014 (0.93%) aligned concordantly >1 times
+    ----
+    8368125 pairs aligned concordantly 0 times; of these:
+      732996 (8.76%) aligned discordantly 1 time
+    ----
+    7635129 pairs aligned 0 times concordantly or discordantly; of these:
+      15270258 mates make up the pairs; of these:
+        14661674 (96.01%) aligned 0 times
+        425173 (2.78%) aligned exactly 1 time
+        183411 (1.20%) aligned >1 times
+26.62% overall alignment rate

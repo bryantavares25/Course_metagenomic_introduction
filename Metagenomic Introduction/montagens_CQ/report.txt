@@ -1,0 +1,29 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    ERR1713356_final.contigs  ERR2683233_final.contigs  ERR4998600_final.contigs  ERR4998601_final.contigs
+# contigs (>= 0 bp)         44883                     35287                     42185                     26152                   
+# contigs (>= 1000 bp)      44883                     35287                     42185                     26152                   
+# contigs (>= 2000 bp)      13160                     10239                     12406                     4682                    
+# contigs (>= 2500 bp)      8945                      7181                      8291                      2918                    
+# contigs (>= 5000 bp)      2476                      2397                      2280                      904                     
+# contigs (>= 10000 bp)     607                       667                       637                       278                     
+# contigs (>= 25000 bp)     83                        71                        197                       50                      
+# contigs (>= 50000 bp)     14                        12                        88                        12                      
+Total length (>= 0 bp)      97005171                  79300180                  99850528                  48420952                
+Total length (>= 1000 bp)   97005171                  79300180                  99850528                  48420952                
+Total length (>= 2000 bp)   54376626                  45848077                  59720096                  20437193                
+Total length (>= 2500 bp)   44998222                  39052730                  50584913                  16524629                
+Total length (>= 5000 bp)   23191271                  22855156                  30351366                  9909972                 
+Total length (>= 10000 bp)  10700537                  11130518                  19424196                  5612892                 
+Total length (>= 25000 bp)  3176541                   2672500                   13057849                  2326167                 
+Total length (>= 50000 bp)  891059                    799144                    9207951                   1011097                 
+# contigs                   44883                     35287                     42185                     26152                   
+Largest contig              102498                    100125                    312570                    190532                  
+Total length                97005171                  79300180                  99850528                  48420952                
+GC (%)                      48.18                     51.52                     62.87                     63.22                   
+N50                         2290                      2446                      2544                      1711                    
+N90                         1135                      1135                      1153                      1080                    
+auN                         5126.1                    5628.4                    16709.2                   6192.1                  
+L50                         10413                     7423                      8030                      6731                    
+L90                         35760                     27832                     32861                     21488                   
+# N's per 100 kbp           0.00                      0.00                      0.00                      0.00                    

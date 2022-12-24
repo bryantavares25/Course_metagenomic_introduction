@@ -1,0 +1,23 @@
+/scratch/project_2006567/miniconda3/envs/quast/bin/metaquast.py montagens/ERR1713356/final.contigs.fa montagens/ERR2683233/final.contigs.fa montagens/ERR4998600/final.contigs.fa montagens/ERR4998601/final.contigs.fa -o montagens_CQ -t 4 --contig-thresholds 0,1000,2000,2500,5000,10000,25000,50000 --max-ref-number 0
+
+Version: 5.2.0
+
+System information:
+  OS: Linux-4.18.0-372.26.1.el8_6.x86_64-x86_64-with-glibc2.28 (linux_64)
+  Python version: 3.10.6
+  CPUs number: 40
+
+Started: 2022-11-10 13:33:04
+
+Logging to /scratch/project_2006567/student381/montagens_CQ/metaquast.log
+
+Contigs:
+  Pre-processing...
+  1  montagens/ERR1713356/final.contigs.fa ==> ERR1713356_final.contigs
+  2  montagens/ERR2683233/final.contigs.fa ==> ERR2683233_final.contigs
+  3  montagens/ERR4998600/final.contigs.fa ==> ERR4998600_final.contigs
+  4  montagens/ERR4998601/final.contigs.fa ==> ERR4998601_final.contigs
+
+NOTICE: Maximum number of references (--max-ref-number) is set to 0, search in SILVA 16S rRNA database is disabled
+
+NOTICE: No references are provided, starting regular QUAST with MetaGeneMark gene finder
